@@ -52,7 +52,7 @@ In this article, you'll walk through the process of building a Word add-in by us
             </div>
         </div>
         <br />
-        <div id="supportedVersion"/>
+    <div id="supportedVersion"></div>
     </body>
     ```
 
